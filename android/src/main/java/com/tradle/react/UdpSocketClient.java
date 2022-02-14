@@ -1,6 +1,6 @@
 package com.tradle.react;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 import android.util.Base64;
 
 import com.facebook.react.bridge.Callback;
